@@ -6,7 +6,7 @@
   <h3>Week 3 - <p>https://github.com/saiteja2167/AIML-LAB/blob/main/AIML%20WEEK3.ipynb</p></h3>
   <h3>Week 4 - <p>https://github.com/saiteja2167/AIML-LAB/blob/main/Week%204.ipynb</p></h3>
   <h3>Week 5 - <p>https://github.com/saiteja2167/AIML-LAB/blob/main/Week%205.ipynb</p></h3>
-  <h3>Week 1 - <p></p></h3>
+  <h3>Week 1 - <p></p>https://github.com/saiteja2167/AIML-LAB/blob/main/Week%206.ipynb</h3>
   <h3>Week 1 - <p></p></h3>
   <h3>Week 1 - <p></p></h3>
 </body>
