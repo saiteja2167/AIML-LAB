@@ -10,6 +10,6 @@
   <h3>Week 7 - <p></p>https://github.com/saiteja2167/AIML-LAB/blob/main/Week%207.ipynb</h3>
   <h3>Week 8 - <p></p>https://github.com/saiteja2167/AIML-LAB/blob/main/Week_8.ipynb</h3>
   <h3>Week 9 - <p>https://github.com/saiteja2167/AIML-LAB/blob/main/Week%209%20(1).ipynb</h3>
-  <h3>Week 10 - <p><</h3>
+  <h3>Week 10 - <p>https://github.com/saiteja2167/AIML-LAB/blob/main/Week%20-%2010%20%5BKMeans%5D.ipynb<</h3>
   <h3>Week 11 - <p><</h3>
 </body>
